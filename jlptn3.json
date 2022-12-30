@@ -79,7 +79,7 @@
                 "kana": "ゴウ、 ガッ、 カッ"
             },
             "kunyomi": {
-                "romaji": "a(u)",
+                "romaji": "a(u), ai",
                 "kana": "あ(う)、あい"
             },
             "translation": "fit, suit, join, 0.1"
@@ -175,8 +175,8 @@
                 "kana": "ジツ"
             },
             "kunyomi": {
-                "romaji": "mi, mino(ru), makoto",
-                "kana": "み、みの(る)、 まこと"
+                "romaji": "mi, mino(ru)",
+                "kana": "み、みの(る)"
             },
             "translation": "reality, truth"
         },
@@ -1148,7 +1148,7 @@
             },
             "kunyomi": {
                 "romaji": "tada(chini), su(gu)",
-                "kana": "ただ(ちに)、 す(ぐ)、 なお(す)"
+                "kana": "ただ(ちに)、 す(ぐ)"
             },
             "translation": "straightaway, honesty, frankness, fix, repair"
         },
