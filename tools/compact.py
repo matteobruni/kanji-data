@@ -12,10 +12,10 @@ def compact(input_filename, output_filename):
 input_filename = input("Enter input filename: ")
 
 if input_filename == "kanji":
-    compact("..\\kanji.json", "..\\kanji.json")
-    compact("..\\kanji-jouyou.json", "..\\kanji-jouyou.json")
-    compact("..\\kanji-kyouiku.json", "..\\kanji-kyouiku.json")
-    compact("..\\kanji-wanikani.json", "..\\kanji-wanikani.json")
+    compact("kanji.json", "kanji.json")
+    compact("kanji-jouyou.json", "kanji-jouyou.json")
+    compact("kanji-kyouiku.json", "kanji-kyouiku.json")
+    compact("kanji-wanikani.json", "kanji-wanikani.json")
 elif input_filename == "wanikani":
     compact("wanikani.json", "wanikani.json")
 elif input_filename == "kanjidic":
