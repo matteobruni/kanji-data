@@ -66,6 +66,7 @@ if __name__ == "__main__":
         else: 
             kanji_table = get_jlpt_level(level)
             final_kanji_dict = {f"Jlptn{level}" : kanji_table}
+            
             with open(f"jlptn{level}.json", "wt", encoding="utf-8") as fp:
                 json.dump(final_kanji_dict, fp, indent=4, ensure_ascii=False)
 
